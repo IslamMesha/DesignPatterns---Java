@@ -1,4 +1,3 @@
-
 public class Square implements Shape {
 
     @Override
