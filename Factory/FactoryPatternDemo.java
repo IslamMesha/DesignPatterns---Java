@@ -1,3 +1,6 @@
+package factory;
+
+import shapes.*;
 
 public class FactoryPatternDemo {
 

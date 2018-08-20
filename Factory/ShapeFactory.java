@@ -1,3 +1,5 @@
+package factory;
+import shapes.*;
 
 public class ShapeFactory {
 

@@ -1,3 +1,6 @@
+package shapes;
+
+import factory.*;
 
 public class Circle implements Shape {
 
